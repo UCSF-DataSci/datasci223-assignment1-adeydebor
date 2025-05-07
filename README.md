@@ -49,9 +49,7 @@ This assignment will help you practice:
 - Clone the repository to your local machine to begin working on the assignment
 
 ### Part 1: Update this README.md
-- My name is Deb and I'm a 2nd year PhD student in the Epidemiology & Translational Science program interested in using data to improve maternal and reproductive health. From this course, I’m hoping to sharpen my Python skills for applied data analysis and get more comfortable building reproducible workflows for research. Musical Recommendation: [4 Kampe II by Joé Dwèt Filé & Burna Boy](https://www.youtube.com/watch?v=KHOSr53EPCQ)
-
-Topics I’d love to see included: cleaning messy datasets, EDA, regression modeling, causal inference, and health data visualization.
+- My name is Deb and I'm a 2nd year PhD student in the Epidemiology & Translational Science program interested in using data to improve maternal and reproductive health. From this course, I’m hoping to sharpen my Python skills for applied data analysis and get more comfortable building reproducible workflows for research. Topics I'd like to see included: Data wrangling with pandas (merging, reshaping, handling missing data), working with time series and datetime formats, prediction modeling. Musical Recommendation: [4 Kampe II by Joé Dwèt Filé & Burna Boy](https://www.youtube.com/watch?v=KHOSr53EPCQ)
 
 ### Part 2: Complete the email_hasher.py Script
 The email_hasher.py script should:
